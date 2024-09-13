@@ -16,7 +16,7 @@ title: "Teaching"
 
 ## Instructor
     - Econ 372: History of Economic Institutions and Thought (Summer 2023, Fall 2023, Spring 2024, Summer 2024)
-    - [Syllabus](/files/pdf/teaching/ECON372_Spring24_Syllabus_Cicero.pdf)
+    - [Syllabus](/files/Summer24 Syllabus.pdf)
 
 ## Teaching Assistant
     - Econ 635: Microeconomic Analysis I, Graduate Level (Instructor: Anders Fremstad)
