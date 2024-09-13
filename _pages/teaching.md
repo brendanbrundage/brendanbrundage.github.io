@@ -1,4 +1,6 @@
 ---
+layout: default
+title: "CV"
 permalink: /teaching/
 title: "Teaching"
 ---
