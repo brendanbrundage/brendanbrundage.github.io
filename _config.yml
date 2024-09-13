@@ -34,12 +34,15 @@ collections:
   pages:
     output: true
     permalink: /:name
-  posts:
+  teaching:
     output: true
-    permalink: /:year/:month/:day/:slug
-  projects:
+    permalink: /:name
+  research:
     output: true
-    permalink: /:collection/:title
+    permalink: /:name
+  CV:
+    output: true
+    permalink: /:name
 
 plugins:
   - jekyll-sitemap
