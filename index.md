@@ -14,8 +14,8 @@ redirect_from:
 Welcome. I am a Ph.D. candidate in the Department of Economics at Colorado State University. Previously, I received my masters' degree in Economics at Florida Atlantic University in 2020, and my bachelors' degree in Economics from Rollins College in 2019. 
 
 My primary research interests focus on Economic Development, Economic History, History of Economic Thought, International trade, and Stratification Economics. My academic work has been published in
-*Review of Black Political Economy* and you can find more information about my work in the [Research](research) page.
+*Review of Black Political Economy* and you can find more information about my work in the [research](Research) page.
 
-I've also had the pleasure of teaching throughout my graduate school years at Colorado State University and Florida Atlantic University. I've served as both an instructor and assistant for various courses at the graduate and undergraduate levels. More information is found in the [Teaching](teaching) page.
+I've also had the pleasure of teaching throughout my graduate school years at Colorado State University and Florida Atlantic University. I've served as both an instructor and assistant for various courses at the graduate and undergraduate levels. More information is found in the [teaching](Teaching) page.
 
-You can contact me by clicking one of the social images at the bottom of this page. Also, my contact information is on the [CV](cv).
+You can contact me by clicking one of the social images at the bottom of this page. Also, my contact information is on the [cv](CV).
