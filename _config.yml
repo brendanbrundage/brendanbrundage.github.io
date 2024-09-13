@@ -3,7 +3,7 @@ navbar_title: Brendan Brundage
 
 author:
   name: Brendan Brundage # Your name
-  email: brendan.brundage@colostate.edu
+  email: "brendan.brundage@colostate.edu"
 
 description: &description "Ph.D. candidate in Economics" # description of your site
 
