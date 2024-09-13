@@ -4,7 +4,15 @@ title: "CV"
 permalink: /teaching/
 title: "Teaching"
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ETZN97YVKW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-ETZN97YVKW');
+</script>
 # Colorado State University
 
 ## Instructor
