@@ -18,4 +18,4 @@ My primary research interests focus on Economic Development, Economic History, H
 
 I've also had the pleasure of teaching throughout my graduate school years at Colorado State University and Florida Atlantic University. I've served as both an instructor and assistant for various courses at the graduate and undergraduate levels. More information is found in the [teaching](Teaching) page.
 
-You can contact me by clicking one of the social images at the bottom of this page. Also, my contact information is in the [cv](CV).
+You can contact me by clicking one of the social images at the bottom of this page. Also, my contact information is in the [CV](CV).
