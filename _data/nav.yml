@@ -1,11 +1,7 @@
 links:
-  - title: overview
-    url: /overview
-  - title: projects
-    url: /projects
-  - title: blog
-    url: /blog
-  - title: gallery
-    url: /gallery
-  - title: contact
-    url: /contact
+  - title: Research
+    url: /research
+  - title: Teaching
+    url: /teaching
+  - title: CV
+    url: /cv
