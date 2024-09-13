@@ -17,3 +17,5 @@ My primary research interests focus on Economic Development, Economic History, H
 *Review of Black Political Economy* and you can find more information about my work in the [research](research) page.
 
 I've also had the pleasure of teaching throughout my graduate school years at Colorado State University and Florida Atlantic University. I've served as both an instructor and assistant for various courses at the graduate and undergraduate levels. More information is found in the [teaching](teaching) page.
+
+You can contact me by clicking one of the social images at the bottom of this page. Also, my contact information is on the [CV](cv).
