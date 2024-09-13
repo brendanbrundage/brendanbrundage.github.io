@@ -34,10 +34,10 @@ collections:
   pages:
     output: true
     permalink: /:name
-  teaching:
+  Teaching:
     output: true
     permalink: /:name
-  research:
+  Research:
     output: true
     permalink: /:name
   CV:
