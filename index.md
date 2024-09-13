@@ -9,7 +9,16 @@ redirect_from:
   - /about.html
 ---
 <h1 style="color: #cc0000;">{% if site.jekyllacademic.homepage_title %}{{ site.jekyllacademic.homepage_title }}{% else %}Hello World!{% endif %}</h1> 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ETZN97YVKW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-ETZN97YVKW');
+</script>
+<script>google-site-verification=bKEzMH2xFq-SywbK9y8bpG7WNI66nh2GeDoxAJ80Oho</script>
 
 Welcome. I am a Ph.D. candidate in the Department of Economics at Colorado State University. Previously, I received my masters' degree in Economics at Florida Atlantic University in 2020, and my bachelors' degree in Economics from Rollins College in 2019. 
 
