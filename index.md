@@ -20,7 +20,7 @@ redirect_from:
 </script>
 <script>google-site-verification=bKEzMH2xFq-SywbK9y8bpG7WNI66nh2GeDoxAJ80Oho</script>
 
-<img src="https://github.com/brendanbrundage/brendanbrundage.github.io/edit/master/assets/css/IMG_3222.png" width=10% height=20%>
+<img src="https://github.com/brendanbrundage/brendanbrundage.github.io/blob/master/assets/css/IMG_3222.png" width=10% height=20%>
 
 Welcome. I am a Ph.D. candidate in the Department of Economics at Colorado State University. Previously, I received my masters' degree in Economics at Florida Atlantic University in 2020, and my bachelors' degree in Economics from Rollins College in 2019. 
 
