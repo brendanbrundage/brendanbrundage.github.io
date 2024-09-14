@@ -41,7 +41,7 @@ Arthur Bloomfield and the West Indian Federation. (with Guy Numa). *Under Review
 
 Uneven Development with Unlimited Supplies of Labor.
 
-Exchange Rate Devaluations and Caribbean Development
+Exchange Rate Devaluations and Caribbean Development.
 
 WASH and Women's Empowerment in Haiti. (with Alex Bernasek, Niroj Bhattari, and Arisa Thongngam)
 
