@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<h1 style="color: #cc0000;">{% if site.jekyllacademic.homepage_title %}{{ site.jekyllacademic.homepage_title }}{% else %}Hello World!{% endif %}</h1> 
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-ETZN97YVKW"></script>
 <script>
@@ -20,7 +20,9 @@ redirect_from:
 </script>
 <script>google-site-verification=bKEzMH2xFq-SywbK9y8bpG7WNI66nh2GeDoxAJ80Oho</script>
 
-<img src="assets/css/IMG_3222.png" width="150" height="125">
+<img src="assets/css/IMG_3222.png" width="200" height="175">
+
+<h1 style="color: #cc0000;">{% if site.jekyllacademic.homepage_title %}{{ site.jekyllacademic.homepage_title }}{% else %}Hello World!{% endif %}</h1> 
 
 Welcome, my name is Brendan Brundage. I am a Ph.D. candidate in the Department of Economics at Colorado State University. Previously, I received my masters' degree in Economics at Florida Atlantic University in 2020, and my bachelors' degree in Economics from Rollins College in 2019. 
 
