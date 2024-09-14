@@ -20,7 +20,7 @@ redirect_from:
 </script>
 <script>google-site-verification=bKEzMH2xFq-SywbK9y8bpG7WNI66nh2GeDoxAJ80Oho</script>
 
-<img src="assets/css/IMG_3222.png" width="100" height="80">
+<img src="assets/css/IMG_3222.png" width="200" height="200">
 
 Welcome, my name is Brendan Brundage. I am a Ph.D. candidate in the Department of Economics at Colorado State University. Previously, I received my masters' degree in Economics at Florida Atlantic University in 2020, and my bachelors' degree in Economics from Rollins College in 2019. 
 
