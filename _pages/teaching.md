@@ -1,6 +1,9 @@
 ---
-permalink: /teaching/
+layout: default
 title: "Teaching"
+permalink: /teaching/
+author_profile: true
+redirect_from:
 ---
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-ETZN97YVKW"></script>
