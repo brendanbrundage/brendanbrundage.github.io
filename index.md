@@ -19,7 +19,7 @@ redirect_from:
   gtag('config', 'G-ETZN97YVKW');
 </script>
 <script>google-site-verification=bKEzMH2xFq-SywbK9y8bpG7WNI66nh2GeDoxAJ80Oho</script>
-![here](/_data/IMG_3222.JPG)
+
 Welcome. I am a Ph.D. candidate in the Department of Economics at Colorado State University. Previously, I received my masters' degree in Economics at Florida Atlantic University in 2020, and my bachelors' degree in Economics from Rollins College in 2019. 
 
 My primary research interests focus on Economic Development, Economic History, History of Economic Thought, International trade, and Stratification Economics. My academic work has been published in
