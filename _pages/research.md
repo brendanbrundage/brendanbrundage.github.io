@@ -25,7 +25,26 @@ A Decline in International Income Inequality? Cross-National Income Convergence 
 
 <span style="font-size:1.25em; font-weight:bold;">Working Papers</span>
 
-The Persistent Effects of Compensation for Abolition. Job Market Paper. [PDF]()
+The Persistent Effects of Compensation for Abolition. Job Market Paper. [PDF](/files/Brundage_JMP.pdf){: .btn--research}
+
+>Throughout the 19th century, colonizers officially abolished chattel slavery in their territories. The process of abolition granted compensation to slave-owners as a reimburse- ment for their ‘property’ loss. I exploit the intuition behind compensation to estimate its long-run effect on current economic performance. The financial award assisted slave- owners in continuing plantation production, mistreating former slaves, and maintaining power in the territories. These effects are deterimental to economical and institutional de- velopment, and are still being felt in the Caribbean. Slave-owners received compensation based on the prices they paid for slaves before abolition, and prices were determined by the demand for slaves and distance to slave markets. Larger territories faced labor shortages and were further from slave markets. With compiled colonial data, I use population den- sity as an instrument for compensation and find that compensation significantly reduces 2019 GDP per capita levels. Mediation analysis suggests that roughly a third of this effect is working through institutional development.
+
+Abolishing the Color Line: W. E. B. Du Bois on Dynamic Social Equilibrium. (with Guy Numa). *Under Review*. [PDF](/files/brundage_numa2024b.pdf){: .btn--research}
+
+>This article proposes a quantitative approach to W. E. B. Du Bois’s work that focuses on his conceptualization of the interdependence between the social condition of a marginalized group and public opinion. We argue that Du Bois put forward a dynamic model of social equilibrium that sheds brighter light on the factors that have impacted the advancement of Black Americans. We develop a Du Boisian model that distinguishes between four regimes. A shock to education improves the social condition of the Black community. This will then impact public opinion, which in turn will retroact on social conditions, and the process will continue until a new steady state is reached at a higher value of education. A shock to integration will create a similar process. Du Bois’s framework is then compared with Gunnar Myrdal’s model of dynamic causation. Du Bois should be recognized as a major theorist of social dynamics.
+
+Arthur Bloomfield and the West Indian Federation. (with Guy Numa). *Under Review*. [PDF](/files/brundage_numa2024.pdf){: .btn--research}
+
+>Money-doctors played a crucial role in establishing and advising central banks in underdeveloped countries in the 20th century. However, the Bretton Woods order transformed the doctors’ prescriptions after the second world war. Arthur Bloomfield was a part of this “new generation” who attempted to equip central banks with wide-ranging policy tools in contrast to the rigid instruments proposed by the previous generation of experts. Bloomfield’s assignment to the British West Indies in 1960-1961 is an example of the change in vision of US foreign monetary policy. A significant characteristic of the new tradition was to let the environment of the country or region determine the exact approach of central banking. Therefore, the political and economic conditions of the West Indies, and the efforts to achieve regional integration and gain independence, were a principal consideration for Bloomfield and his advice for the region.
+
+<span style="font-size:1.25em; font-weight:bold;"> Work in Progress</span>
+
+Uneven Development with Unlimited Supplies of Labor.
+
+Exchange Rate Devaluations and Caribbean Development
+
+WASH and Women's Empowerment in Haiti. (with Alex Bernasek, Niroj Bhattari, and Arisa Thongngam)
+
 
 
 
