@@ -10,7 +10,8 @@ title: "Teaching"
   gtag('js', new Date());
 
   gtag('config', 'G-ETZN97YVKW');
-  </script>
+</script>
+
 
  
 # Colorado State University
