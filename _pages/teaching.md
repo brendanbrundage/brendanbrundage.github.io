@@ -1,5 +1,4 @@
 ---
-layout: Default
 permalink: /teaching/
 title: "Teaching"
 ---
