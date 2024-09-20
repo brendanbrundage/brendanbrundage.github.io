@@ -24,7 +24,7 @@ redirect_from:
 
 <h1 style="color: #cc0000;">{% if site.jekyllacademic.homepage_title %}{{ site.jekyllacademic.homepage_title }}{% else %}Hello World!{% endif %}</h1> 
 
-Welcome, my name is Brendan Brundage. I am a Ph.D. candidate in the Department of Economics at Colorado State University. Previously, I received my masters' degree in Economics at Florida Atlantic University in 2020, and my bachelors' degree in Economics from Rollins College in 2019. 
+Welcome. My name is Brendan Brundage, and I am a Ph.D. candidate in the Department of Economics at Colorado State University. Previously, I received my masters' degree in Economics at Florida Atlantic University in 2020, and my bachelors' degree in Economics from Rollins College in 2019. 
 
 My primary research interests focus on Economic Development, Economic History, History of Economic Thought, International trade, and Stratification Economics. My academic work has been published in
 *Review of Black Political Economy* and you can find more information about my work in the [research](research) page.
