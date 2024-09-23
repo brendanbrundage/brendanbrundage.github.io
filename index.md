@@ -20,7 +20,7 @@ redirect_from:
 </script>
 <script>google-site-verification=bKEzMH2xFq-SywbK9y8bpG7WNI66nh2GeDoxAJ80Oho</script>
 
-<img src="assets/css/IMG_3222.png" width="300" height="220">
+<img src="assets/css/image1.png" width="300" height="220">
 
 <h1 style="color: #cc0000;">{% if site.jekyllacademic.homepage_title %}{{ site.jekyllacademic.homepage_title }}{% else %}Hello World!{% endif %}</h1> 
 
