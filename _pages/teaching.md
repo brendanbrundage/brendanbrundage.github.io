@@ -18,6 +18,7 @@ redirect_from:
 
  
 # Colorado State University
+  - [Teaching Evalutations] (/files/TeachingEffectiveness_Brundage.pdf)
 
 ## Instructor
   - Econ 372: History of Economic Institutions and Thought (Summer 2023, Fall 2023, Spring 2024, Summer 2024)
