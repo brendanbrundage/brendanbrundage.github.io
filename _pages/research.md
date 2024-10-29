@@ -40,7 +40,7 @@ Arthur Bloomfield and the West Indian Federation. (with Guy Numa). *Under Review
 
 <span style="font-size:1.25em; font-weight:bold;"> Works in Progress</span>
 
-Uneven Development with Unlimited Supplies of Labor.[PDF](/files/brundage_Chapter2.pdf){: .btn--research}
+Uneven Development with Unlimited Supplies of Labor (Under Review).[PDF](/files/brundage_Chapter2.pdf){: .btn--research}
 
 >To explain uneven development, balance of payment constrained growth (BPCG) models emphasize external demand conditions in the spirit of Thirlwall's Law. However, economists such as Arthur Lewis and Ragnar Nurkse have argued that productivity of the internal economy is an important variable determining the gap between the South and North because it improves terms of trade and allows for the integration of exporting and domestic sectors. The internal economy is comprised of the sectors which produce for domestic consumption. This paper combines BPCG modeling framework with the theories of Lewis and Nukse to produce a North-South model where internal productivity determines income elasticities, and thus affects terms of trade and long-run growth. I also show that elasticity ratios are vital for North-South convergence using estimations for 1985-2019.
 
