@@ -40,11 +40,27 @@ Arthur Bloomfield and the West Indian Federation. (with Guy Numa). *Under Review
 
 <span style="font-size:1.25em; font-weight:bold;"> Work in Progress</span>
 
-Uneven Development with Unlimited Supplies of Labor.
+Uneven Development with Unlimited Supplies of Labor.[PDF](/files/Brundage_Chapter2.pdf){: .btn--research}
+
+>	To explain uneven development, balance of payment constrained growth (BPCG) models emphasize external demand conditions in the spirit of Thirlwall's Law. However, economists such as Arthur Lewis and Ragnar Nurkse have argued that productivity of the internal economy is an important variable determining the gap between the South and North because it improves terms of trade and allows for the integration of exporting and domestic sectors. The internal economy is comprised of the sectors which produce for domestic consumption. This paper combines BPCG modeling framework with the theories of Lewis and Nukse to produce a North-South model where internal productivity determines income elasticities, and thus affects terms of trade and long-run growth. I also show that elasticity ratios are vital for North-South convergence using estimations for 1985-2019.
+
+WASH and Women's Empowerment in Haiti. (with Alexandra Bernasek, Niroj Bhattarai, Wisnu Nugroho, and Arisa Thongngam)
+
+>As we approach 2030, the deadline for achieving the United Nations (UN) Sustainable
+Development Goals (SDGs), many countries are far from meeting their goals. In this paper
+we explore potential synergies between SDG 5 Gender equality and SDG6 Clean water and
+sanitation. We are interested in how improved WASH conditions may also contribute to
+women’s empowerment. Using data on Haiti - one of the the poorest countries in the world
+and a country that has struggled with making progress on both goals - we find that access
+to improved water sources, less time to collect water and improved sanitation facilities are
+all positively associated with two measures of women’s empowerment; decision making in
+the household and attitudes towards violence against women in the household. The results
+support a gender transformative approach to WASH policies to capitalize on the synergies
+between improved WASH and women’s empowerment.
 
 Exchange Rate Devaluations and Caribbean Development.
 
-WASH and Women's Empowerment in Haiti. (with Alex Bernasek, Niroj Bhattari, and Arisa Thongngam)
+
 
 
 
