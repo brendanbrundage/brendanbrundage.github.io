@@ -38,7 +38,7 @@ Arthur Bloomfield and the West Indian Federation. (with Guy Numa). *Under Review
 
 >Money-doctors played a crucial role in establishing and advising central banks in underdeveloped countries in the 20th century. However, the Bretton Woods order transformed the doctors’ prescriptions after the second world war. Arthur Bloomfield was a part of this “new generation” who attempted to equip central banks with wide-ranging policy tools in contrast to the rigid instruments proposed by the previous generation of experts. Bloomfield’s assignment to the British West Indies in 1960-1961 is an example of the change in vision of US foreign monetary policy. A significant characteristic of the new tradition was to let the environment of the country or region determine the exact approach of central banking. Therefore, the political and economic conditions of the West Indies, and the efforts to achieve regional integration and gain independence, were a principal consideration for Bloomfield and his advice for the region.
 
-<span style="font-size:1.25em; font-weight:bold;"> Work in Progress</span>
+<span style="font-size:1.25em; font-weight:bold;"> Works in Progress</span>
 
 Uneven Development with Unlimited Supplies of Labor.[PDF](/files/Brundage_Chapter2.pdf){: .btn--research}
 
