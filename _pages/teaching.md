@@ -21,9 +21,10 @@ redirect_from:
   - [Teaching Evaluations](/files/TeachingEffectiveness_Brundage.pdf)
 
 ## Instructor
+  - Econ 204: Introduction to Macroeconomics (Spring 2025)
   - Econ 372: History of Economic Institutions and Thought (Summer 2023, Fall 2023, Spring 2024, Summer 2024)
   - [Syllabus](/files/Summer24_Syllabus.pdf)
-
+ 
 ## Teaching Assistant
   - Econ 635: Microeconomic Analysis I, Graduate Level (Instructor: Anders Fremstad)
   - Econ 606: Macroeconomic Analysis I, Graduate Level (Instructor: Terry Iverson)
