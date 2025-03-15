@@ -24,7 +24,9 @@ redirect_from:
 
 <h1 style="color: #cc0000;">{% if site.jekyllacademic.homepage_title %}{{ site.jekyllacademic.homepage_title }}{% else %}Hello World!{% endif %}</h1> 
 
-Welcome. My name is Brendan Brundage, and I am a Ph.D. candidate in the Department of Economics at Colorado State University. Previously, I received my masters' degree in Economics at Florida Atlantic University in 2020, and my bachelors' degree in Economics from Rollins College in 2019. I played four years of college baseball and now I enjoy playing basketball and golf in my free time.
+Welcome. My name is Brendan Brundage, and I am a Ph.D. candidate in the Department of Economics at Colorado State University. I will be joining Morehouse College as an Assistant Professor in August 2025. 
+
+Previously, I received my masters' degree in Economics at Florida Atlantic University in 2020, and my bachelors' degree in Economics from Rollins College in 2019. I played four years of college baseball and now I enjoy playing basketball and golf in my free time.
 
 My primary research is focused on Development, Economic History, History of Economic Thought, and Political Economy. In general, my work seeks to explain differential development patterns for specific groups, like the racial wealth gap in the United States, as well as for developing regions, such as the Caribbean. My academic work has been published in *Review of Black Political Economy* and *Sociology of Development*. You can find more information about my work in the [research](research) page.
 
