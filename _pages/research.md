@@ -38,12 +38,6 @@ Arthur Bloomfield and the West Indian Federation. (with Guy Numa). *Under Review
 
 >Money-doctors played a crucial role in establishing and advising central banks in underdeveloped countries in the 20th century. However, the Bretton Woods order transformed the doctors’ prescriptions after the second world war. Arthur Bloomfield was a part of this “new generation” who attempted to equip central banks with wide-ranging policy tools in contrast to the rigid instruments proposed by the previous generation of experts. Bloomfield’s assignment to the British West Indies in 1960-1961 is an example of the change in vision of US foreign monetary policy. A significant characteristic of the new tradition was to let the environment of the country or region determine the exact approach of central banking. Therefore, the political and economic conditions of the West Indies, and the efforts to achieve regional integration and gain independence, were a principal consideration for Bloomfield and his advice for the region.
 
-<span style="font-size:1.25em; font-weight:bold;"> Works in Progress</span>
-
-Uneven Development with Unlimited Supplies of Labor.
-
->To explain uneven development, balance of payment constrained growth (BPCG) models emphasize external demand conditions in the spirit of Thirlwall's Law. However, economists such as Arthur Lewis and Ragnar Nurkse have argued that productivity of the internal economy is an important variable determining the gap between the South and North because it improves terms of trade and allows for the integration of exporting and domestic sectors. The internal economy is comprised of the sectors which produce for domestic consumption. This paper combines BPCG modeling framework with the theories of Lewis and Nukse to produce a North-South model where internal productivity determines income elasticities, and thus affects terms of trade and long-run growth. I also show that elasticity ratios are vital for North-South convergence using estimations for 1985-2019.
-
 Building on Synergies between SDGs:
 WASH and Women’s Empowerment in Haiti. *Under Review*. (with Alexandra Bernasek, Niroj Bhattarai, Wisnu Nugroho, and Arisa Thongngam)
 
@@ -59,7 +53,15 @@ the household and attitudes towards violence against women in the household. The
 support a gender transformative approach to WASH policies to capitalize on the synergies
 between improved WASH and women’s empowerment.
 
-Exchange Rate Devaluations and Caribbean Development.
+<span style="font-size:1.25em; font-weight:bold;"> Works in Progress</span>
+
+Uneven Development with Unlimited Supplies of Labor.
+
+>	This paper develops a North-South growth model that integrates balance-of-payments constrained growth (BPCG) theory with insights from Arthur Lewis and Ragnar Nurkse. While BPCG models emphasize income elasticities of trade as key drivers of uneven development, Lewis and Nurkse highlight the role of domestic sector productivity in shaping long-term growth. I extend the BPCG framework to show that low internal productivity in the South weakens income elasticities and terms-of-trade, which hampers the prospects of convergence with the North. Using empirical estimates from 1985–2019, I demonstrate that elasticity ratios, determined by domestic productivity, are a critical factor in economic divergence. The findings suggest that improving internal productivity is essential for sustained growth and reducing income disparities between the North and South.
+
+Natural Disasters and Economic Recovery: 2010 Haiti Earthquake
+
+Stuck in the Swamp: Automation and the Everglades Agricultural Area
 
 
 
