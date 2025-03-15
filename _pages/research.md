@@ -55,9 +55,7 @@ between improved WASH and women’s empowerment.
 
 <span style="font-size:1.25em; font-weight:bold;"> Works in Progress</span>
 
-Uneven Development with Unlimited Supplies of Labor.
-
->	This paper develops a North-South growth model that integrates balance-of-payments constrained growth (BPCG) theory with insights from Arthur Lewis and Ragnar Nurkse. While BPCG models emphasize income elasticities of trade as key drivers of uneven development. Lewis and Nurkse highlight the role of domestic sector productivity on shaping long-term growth. I extend the BPCG framework to show that low internal productivity in the South weakens income elasticities and terms-of-trade, which hampers the prospects of convergence with the North. Using empirical estimates from 1985-2019, I demonstrate that elasticity ratios, determined by domestic productivity, are a critical factor inn economic divergence. The findings suggest that improving internal productivity is essential for sustained growth and reducing income disparaties between the North and South. 
+Uneven Development with an Unlimited Supply of Labor.
 
 Natural Disasters and Economic Recovery: 2010 Haiti Earthquake
 
