@@ -36,7 +36,7 @@ I've also had the pleasure of teaching throughout my graduate school years at Co
 You can contact me by clicking one of the social images at the bottom of this page. Also, my contact information is in the [cv](cv). </p>
 
 </div>
-
+</div>
 <img src="assets/css/headshot.png" width="315" height="400">
 
 <h1 style="color: #cc0000;">{% if site.jekyllacademic.homepage_title %}{{ site.jekyllacademic.homepage_title }}{% else %}Hello World!{% endif %}</h1> 
