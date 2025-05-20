@@ -20,7 +20,13 @@ redirect_from:
 </script>
 <script>google-site-verification=bKEzMH2xFq-SywbK9y8bpG7WNI66nh2GeDoxAJ80Oho</script>
 
-<h1 style="color: #cc0000;">{% if site.jekyllacademic.homepage_title %}{{ site.jekyllacademic.homepage_title }}{% else %}Hello World!{% endif %}</h1> 
+<div class="about-container">
+  <img src="assets/css/headshot.png" alt="My photo" class="profile-pic">
+  <div class="about-text">
+    <p>I'm a PhD candidate in Economics at Colorado State University. My research focuses on development, economic history, and political economy...</p>
+  </div>
+</div>
+
 <img src="assets/css/headshot.png" width="315" height="400">
 
 <h1 style="color: #cc0000;">{% if site.jekyllacademic.homepage_title %}{{ site.jekyllacademic.homepage_title }}{% else %}Hello World!{% endif %}</h1> 
