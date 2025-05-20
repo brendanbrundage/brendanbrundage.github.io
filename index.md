@@ -23,7 +23,6 @@ redirect_from:
 <div class="about-container">
   <img src="assets/css/headshot.png" alt="My photo" class="profile-pic" width="350" height="400">
   <div class="about-text">
-    {{ content | markdownify }}
     <h1 style="color: #cc0000;">{% if site.jekyllacademic.homepage_title %}{{ site.jekyllacademic.homepage_title }}{% else %}Hello World!{% endif %}</h1> 
   <p>  Welcome. My name is Brendan Brundage. I will be joining Morehouse College as an Assistant Professor of Economics in August 2025. 
 </p>
