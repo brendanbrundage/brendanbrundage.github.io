@@ -21,7 +21,7 @@ redirect_from:
 <script>google-site-verification=bKEzMH2xFq-SywbK9y8bpG7WNI66nh2GeDoxAJ80Oho</script>
 
 <div class="about-container">
-  <img src="assets/css/headshot.png" alt="My photo" class="profile-pic">
+  <img src="assets/css/headshot.png" alt="My photo" class="profile-pic" width="315" height="400">
   <div class="about-text">
     <p>I'm a PhD candidate in Economics at Colorado State University. My research focuses on development, economic history, and political economy...</p>
   </div>
