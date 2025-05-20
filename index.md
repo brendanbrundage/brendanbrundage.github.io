@@ -22,7 +22,7 @@ redirect_from:
 
 <table>
   <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
+    <td style="vertical-align: top; padding-right: 0px;">
       <p><strong>About Me:</strong><br>
       I'm a PhD candidate in Economics at Colorado State University. My research focuses on development, economic history, and political economy...
       </p>
