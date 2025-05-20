@@ -23,6 +23,8 @@ redirect_from:
 <h1 style="color: #cc0000;">{% if site.jekyllacademic.homepage_title %}{{ site.jekyllacademic.homepage_title }}{% else %}Hello World!{% endif %}</h1> 
 <img src="assets/css/headshot.png" width="315" height="400">
 
+<h1 style="color: #cc0000;">{% if site.jekyllacademic.homepage_title %}{{ site.jekyllacademic.homepage_title }}{% else %}Hello World!{% endif %}</h1> 
+
 Welcome. My name is Brendan Brundage, and I am a Ph.D. candidate in the Department of Economics at Colorado State University. I will be joining Morehouse College as an Assistant Professor in August 2025. 
 
 Previously, I received my masters' degree in Economics at Florida Atlantic University in 2020, and my bachelors' degree in Economics from Rollins College in 2019. I played four years of college baseball and now I enjoy playing basketball and golf in my free time.
