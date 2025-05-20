@@ -20,9 +20,8 @@ redirect_from:
 </script>
 <script>google-site-verification=bKEzMH2xFq-SywbK9y8bpG7WNI66nh2GeDoxAJ80Oho</script>
 
-<img src="assets/css/headshot.png" width="315" height="400">
-
 <h1 style="color: #cc0000;">{% if site.jekyllacademic.homepage_title %}{{ site.jekyllacademic.homepage_title }}{% else %}Hello World!{% endif %}</h1> 
+<img src="assets/css/headshot.png" width="315" height="400">
 
 Welcome. My name is Brendan Brundage, and I am a Ph.D. candidate in the Department of Economics at Colorado State University. I will be joining Morehouse College as an Assistant Professor in August 2025. 
 
