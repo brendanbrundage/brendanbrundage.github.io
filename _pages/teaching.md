@@ -18,8 +18,7 @@ redirect_from:
 
  
 # Colorado State University
-  - [Teaching Evaluations](/files/TeachingEffectiveness_Brundage.pdf)
-
+ 
 ## Instructor
   - Econ 204: Introduction to Macroeconomics (Spring 2025)
   - Econ 372: History of Economic Institutions and Thought (Summer 2023, Fall 2023, Spring 2024, Summer 2024)
