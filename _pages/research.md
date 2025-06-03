@@ -35,26 +35,14 @@ The Persistent Effects of Compensation for Abolition. Job Market Paper. [PDF](/f
 
 >Throughout the 19th century, slavery was abolished in West Indian territories. The process of abolition granted compensation to slave-owners as a reimbursement for their ‘property’ loss. I exploit the intuition behind compensation to estimate its long-run effect on current economic performance. The financial award assisted slave-owners in continuing plantation production, mistreating former slaves, and maintaining power in the territories. These effects are detrimental to economical and institutional development, and are still being felt in the Caribbean. Slave-owners received compensation based on the prices they paid for slaves before abolition, and prices were determined by distance to slave markets. With compiled colonial data, I use distance to the nearest slave market as an instrument for compensation and find that compensation significantly reduces 2019 GDP per capita levels.
 
-Abolishing the Color Line: W. E. B. Du Bois on Dynamic Social Equilibrium. (with Guy Numa). *Under Review*. [PDF](/files/brundage_numa2024b.pdf){: .btn--research}
+Abolishing the Color Line: W. E. B. Du Bois on Dynamic Social Equilibrium. (with Guy Numa). *Under Review*. [PDF](/files/brundage_numa2025(DB.pdf){: .btn--research}
 
->This article proposes a quantitative approach to W. E. B. Du Bois’s work that focuses on his conceptualization of the interdependence between the social condition of a marginalized group and public opinion. We argue that Du Bois put forward a dynamic model of social equilibrium that sheds brighter light on the factors that have impacted the advancement of Black Americans. We develop a Du Boisian model that distinguishes between four regimes. A shock to education improves the social condition of the Black community. This will then impact public opinion, which in turn will retroact on social conditions, and the process will continue until a new steady state is reached at a higher value of education. A shock to integration will create a similar process. Du Bois’s framework is then compared with Gunnar Myrdal’s model of dynamic causation. Du Bois should be recognized as a major theorist of social dynamics.
-
-
+>This article explores the political economy of W. E. B. Du Bois drawing on the mathematical analogies and theoretical insights outlined in “The Future of the Negro Race in America,” a rarely-discussed essay. We argue that Du Bois put forward a dynamic model of social equilibrium that sheds brighter light on the factors that affect the socioeconomic advancement of Black Americans. The main feature of the model is the interdependence between the social condition of a marginalized group and public opinion. We develop a formal Du Boisian model that distinguishes between four regimes. A shock to education improves the social condition of the Black community. This will then affect public opinion, which in turn will change social conditions, and the process will continue until a new steady state is reached at a higher value of education. A shock to integration creates a similar process. Du Bois’s framework is then compared with Gunnar Myrdal’s model of dynamic causation. We contend that Du Bois was a major theorist of social dynamics.
 
 Building on Synergies between SDGs:
 WASH and Women’s Empowerment in Haiti. *Under Review*. (with Alexandra Bernasek, Niroj Bhattarai, Wisnu Nugroho, and Arisa Thongngam)
 
->As we approach 2030, the deadline for achieving the United Nations (UN) Sustainable
-Development Goals (SDGs), many countries are far from meeting their goals. In this paper
-we explore potential synergies between SDG 5 Gender equality and SDG6 Clean water and
-sanitation. We are interested in how improved WASH conditions may also contribute to
-women’s empowerment. Using data on Haiti - one of the the poorest countries in the world
-and a country that has struggled with making progress on both goals - we find that access
-to improved water sources, less time to collect water and improved sanitation facilities are
-all positively associated with two measures of women’s empowerment; decision making in
-the household and attitudes towards violence against women in the household. The results
-support a gender transformative approach to WASH policies to capitalize on the synergies
-between improved WASH and women’s empowerment.
+>As the 2030 deadline for achieving the United Nations (UN) Sustainable Development Goals (SDGs) approaches, many countries are far from meeting their targets. In this paper we focus on interlinkages and potential synergies between SDG 5 (Gender Equality) and SDG 6 (Clean Water and Sanitation) in the context of Haiti. Following Caruso et al. (2022) and Kishor and Subiya (2008) we examine how improved  Water, Sanitation, and Hygiene (WASH) conditions may contribute to women’s empowerment. Our analysis reveals that access to improved water sources, reduced water collection times, and better sanitation facilities in Haiti are positively associated with two measures of women’s empowerment: household decision-making and attitudes toward violence within households. These results support an approach to WASH policies that develops synergies between improved WASH conditions and women’s empowerment, that is sensitive to rural-urban differences, and that will be sustainable in meeting people’s water and sanitation needs in Haiti
 
 <span style="font-size:1.25em; font-weight:bold;"> Works in Progress</span>
 
