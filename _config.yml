@@ -6,9 +6,9 @@ author:
   bio:  Assistant Professor of Economics
   location: Atlanta, Georgia
   avatar: "/_data/IMG_3222.png"
-  email: "brendan.brundage@colostate.edu"
+  email: "brendan.brundage@morehouse.edu"
 
-description: Ph.D. candidate in Economics at Colorado State University. Fort Collins, CO # description of your site
+description: Assistant Professor, Department of Economics, Morehouse College, Atlanta, GA # description of your site
 
 url: "https://brendanbrundage.github.io" # The base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # The subpath of your site, e.g. /blog
@@ -22,7 +22,7 @@ jekyllacademic:
     twitter: brendanbrundage # Your twitter username
     github: brendanbrundage # Your github username
     googlescholar: citations?user=EZYxXbMAAAAJ&hl=en 
-    email: brendan.brundage@colostate.edu # Your email
+    email: brendan.brundage@morehouse.edu # Your email
  
 
 # No need to edit this part, however if you want to, that's fine as well
