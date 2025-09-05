@@ -32,7 +32,7 @@ I have a Ph.D. in Economics from Colorado State University. Before that, I recei
 </p>
     
 <p>
-My primary research is focused on Development, Economic History, and History of Economic Thought. In general, my work seeks to explain differential development patterns for specific groups, like the racial wealth gap in the United States, as well as for developing regions, such as the Caribbean. My academic work has been published in <em>Economy & Society<em>, <em> The History of Polical Economy<em>, <em>The Review of Black Political Economy</em> ,and <em>Sociology of Development</em>. You can find more information about my work in the <a href="https://brendanbrundage.github.io/research/">Research Page</a>.
+My primary research is focused on Development, Economic History, and History of Economic Thought. In general, my work seeks to explain differential development patterns for specific groups, like the racial wealth gap in the United States, as well as for developing regions, such as the Caribbean. My academic work has been published in <em>Economy & Society</em>, <em>The History of Polical Economy</em>, <em>The Review of Black Political Economy</em> ,and <em>Sociology of Development</em>. You can find more information about my work in the <a href="https://brendanbrundage.github.io/research/">Research Page</a>.
 </p>
 
 <p>
