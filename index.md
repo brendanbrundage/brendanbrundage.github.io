@@ -21,7 +21,7 @@ redirect_from:
 <script>google-site-verification=bKEzMH2xFq-SywbK9y8bpG7WNI66nh2GeDoxAJ80Oho</script>
 
 <div class="about-container">
-  <img src="assets/css/headshot2" alt="My photo" class="profile-pic" width="315" height="400">
+  <img src="assets/css/headshot2.png" alt="My photo" class="profile-pic" width="315" height="400">
   <div class="about-text">
     <h1 style="color: #cc0000;">{% if site.jekyllacademic.homepage_title %}{{ site.jekyllacademic.homepage_title }}{% else %}Hello World!{% endif %}</h1> 
   <p>  Welcome. My name is Brendan Brundage and I'm an Assistant Professor of Economics at Morehouse College. 
