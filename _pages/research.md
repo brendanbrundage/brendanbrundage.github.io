@@ -39,20 +39,25 @@ The Persistent Effects of Compensation for Abolition. Job Market Paper. [PDF](/f
 
 >Throughout the 19th century, slavery was abolished in West Indian territories. The process of abolition granted compensation to slave-owners as a reimbursement for their ‘property’ loss. I exploit the intuition behind compensation to estimate its long-run effect on current economic performance. The financial award assisted slave-owners in continuing plantation production, mistreating former slaves, and maintaining power in the territories. These effects are detrimental to economical and institutional development, and are still being felt in the Caribbean. Slave-owners received compensation based on the prices they paid for slaves before abolition, and prices were determined by distance to slave markets. With compiled colonial data, I use distance to the nearest slave market as an instrument for compensation and find that compensation significantly reduces 2019 GDP per capita levels.
 
-Building on Synergies between SDGs:
-WASH and Women’s Empowerment in Haiti. *Under Review*. (with Alexandra Bernasek, Niroj Bhattarai, Wisnu Nugroho, and Arisa Thongngam)
+WASH and Women’s Empowerment in Haiti. *Revisions Requested*. (with Alexandra Bernasek, Niroj Bhattarai, Wisnu Nugroho, and Arisa Thongngam)
 
->As the 2030 deadline for achieving the United Nations (UN) Sustainable Development Goals (SDGs) approaches, many countries are far from meeting their targets. In this paper we focus on interlinkages and potential synergies between SDG 5 (Gender Equality) and SDG 6 (Clean Water and Sanitation) in the context of Haiti. Following Caruso et al. (2022) and Kishor and Subiya (2008) we examine how improved  Water, Sanitation, and Hygiene (WASH) conditions may contribute to women’s empowerment. Our analysis reveals that access to improved water sources, reduced water collection times, and better sanitation facilities in Haiti are positively associated with two measures of women’s empowerment: household decision-making and attitudes toward violence within households. These results support an approach to WASH policies that develops synergies between improved WASH conditions and women’s empowerment, that is sensitive to rural-urban differences, and that will be sustainable in meeting people’s water and sanitation needs in Haiti
+>As the 2030 deadline for the United Nations (UN) Sustainable Development Goals (SDGs) approaches, many countries remain far from meeting their goals. The UN encourages integrated strategies that leverage synergies between goals to accelerate progress. We examine linkages between SDG 5 (Gender Equality) and SDG 6 (Clean Water and Sanitation) in Haiti, where progress on both has been very limited. We explore associations between improved Water, Sanitation, and Hygiene (WASH) conditions and women’s empowerment. Based on our findings, a gender sensitive strategy would involve expanding access to private piped water in urban areas, public piped water in rural areas, and rainwater collection systems in both as well as increasing adoption of pit latrines with slabs. As part of an Integrated Water System Management (IWSM) plan utilizing sustainable technologies, these improvements in WASH can increase women’s access to resources, improve their agency, and improve relations in households; supporting both SDGs.
 
+Uneven Development with an Unlimited Supply of Labor. *Revisions Requested*. 
+
+>This paper develops a North-South growth model that integrates balance-of-payments constrained growth (BPCG) theory with insights from Arthur Lewis and Ragnar Nurkse. While BPCG models emphasize income elasticities of trade as key drivers of uneven
+development, Lewis and Nurkse highlight the role of domestic sector productivity in shaping long-term growth. I extend the BPCG framework to show that low internal productivity in the South weakens income elasticities and terms-of-trade, which hampers
+the prospects of convergence with the North. Using empirical estimates from 1985–2019, I demonstrate that elasticity ratios—determined by domestic productivity—are a critical factor in economic divergence. The findings suggest that improving internal productivity is essential for sustained growth and reducing income disparities between the North and South.
+>
 <span style="font-size:1.25em; font-weight:bold;"> Works in Progress</span>
-
-Uneven Development with an Unlimited Supply of Labor.
 
 Natural Disasters and Economic Recovery: 2010 Haiti Earthquake
 
 Stuck in the Swamp: Automation and the Everglades Agricultural Area
 
-From Development Optimism to Structural Critique: The Evolution of W. Arthur Lewis’s Economic Thought
+"Optimism and Pitfalls of a Development Doctor: W. Arthur Lewis in Ghana" with Oyindoubra Gbeworo and Guy Numa
+
+"Arthur Lewis across contexts: West Indies vs. West Africa" with Oyindoubra Gbeworo and Guy Numa
 
 
 
