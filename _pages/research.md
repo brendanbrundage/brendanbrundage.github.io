@@ -16,7 +16,7 @@ author_profile: true
 
 <span style="font-size:1.25em; font-weight:bold;">Publications</span>
 
-Abolishing the Color Line: W. E. B. Du Bois’s Theory of Dynamic Social Equilibrium. (with Guy Numa). *Economy and Society (Forthcoming)*. [PDF](/files/brundage_numa2025(DB).pdf){: .btn--research}
+Abolishing the Color Line: W. E. B. Du Bois’s Theory of Dynamic Social Equilibrium. (with Guy Numa). *Economy and Society (Forthcoming)*. [WP Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5456834){: .btn--research}
 
 >This article explores the political economy of W. E. B. Du Bois drawing on the mathematical analogies and theoretical insights outlined in “The Future of the Negro Race in America,” a rarely-discussed essay. We argue that Du Bois put forward a dynamic model of social equilibrium that sheds brighter light on the factors that affect the socioeconomic advancement of Black Americans. The main feature of the model is the interdependence between the social condition of a marginalized group and public opinion. We develop a formal Du Boisian model that distinguishes between four regimes. A shock to education improves the social condition of the Black community. This will then affect public opinion, which in turn will change social conditions, and the process will continue until a new steady state is reached at a higher value of education. A shock to integration creates a similar process. Du Bois’s framework is then compared with Gunnar Myrdal’s model of dynamic causation. We contend that Du Bois was a major theorist of social dynamics.
 
