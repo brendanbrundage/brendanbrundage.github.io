@@ -15,14 +15,17 @@ redirect_from:
   gtag('config', 'G-ETZN97YVKW');
 </script>
 
+# Morehouse College
 
+## Assistant Professor
+  - ECON 202: Principles of Microeconomics (Fall 2025)
+  - ECON 303: Economic History of the US (Fall 2025) [Syllabus](/files/Brundage_Syllabus_Fall25_HECO303.pdf)
  
 # Colorado State University
  
 ## Instructor
   - Econ 204: Introduction to Macroeconomics (Spring 2025)
-  - Econ 372: History of Economic Institutions and Thought (Summer 2023, Fall 2023, Spring 2024, Summer 2024)
-  - [Syllabus](/files/Summer24_Syllabus.pdf)
+  - Econ 372: History of Economic Institutions and Thought (Summer 2023, Fall 2023, Spring 2024, Summer 2024) [Syllabus](/files/Summer24_Syllabus.pdf)
  
 ## Teaching Assistant
   - Econ 635: Microeconomic Analysis I, Graduate Level (Instructor: Anders Fremstad)
