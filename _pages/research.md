@@ -26,7 +26,7 @@ A Decline in International Income Inequality? Cross-National Income Convergence 
 
 <span style="font-size:1.25em; font-weight:bold;">Working Papers</span>
 
-Theoretical Approaches in Stratification Economics.(with Dan McGee and Daniele Tavani). 2026. *NBER Working Paper series* [Link](https://www.nber.org/papers/w34619){: .btn--research}
+Theoretical Approaches in Stratification Economics. (with Dan McGee and Daniele Tavani). 2026. *NBER Working Paper series* [Link](https://www.nber.org/papers/w34619){: .btn--research}
 
 The Persistent Effects of Compensation for Abolition. Job Market Paper. [PDF](/files/BrundageJMP.pdf){: .btn--research}
 
