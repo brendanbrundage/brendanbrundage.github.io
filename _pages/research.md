@@ -16,9 +16,9 @@ author_profile: true
 
 <span style="font-size:1.25em; font-weight:bold;">Publications</span>
 
-Abolishing the colour line: W.E.B. Du Bois’s theory of dynamic social equilibrium. (with Guy Numa). 2025 *Economy and Society*. [Link](https://doi.org/10.1080/03085147.2025.2564577){: .btn--research}
-
 Promoting Unorthodox Money Doctoring: Arthur Bloomfield and the West Indian Federation. (with Guy Numa). *History of Political Economy (Forthcoming)*.[PDF](/files/brundage_numa(2025).pdf){: .btn--research}
+
+Abolishing the colour line: W.E.B. Du Bois’s theory of dynamic social equilibrium. (with Guy Numa). 2025 *Economy and Society*. [Link](https://doi.org/10.1080/03085147.2025.2564577){: .btn--research}
 
 A Simple Model of Group Conflict, Inequality, and Stratification. (with Daniele Tavani). 2024. *Review of Black Political Economy* (Online First). [Link](https://doi.org/10.1177/00346446241275229){: .btn--research}
 
