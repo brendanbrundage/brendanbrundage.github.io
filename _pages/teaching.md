@@ -18,8 +18,9 @@ redirect_from:
 # Morehouse College
 
 ## Assistant Professor
-  - ECON 202: Principles of Microeconomics (Fall 2025)
+  - ECON 202: Principles of Microeconomics (Fall 2025, Spring 2026)
   - ECON 303: Economic History of the US (Fall 2025) [Syllabus](/files/Brundage_Syllabus_Fall25_HECO303.pdf)
+  - ECON 401: Economic Doctrines (Spring 2026)
  
 # Colorado State University
  
