@@ -16,6 +16,8 @@ author_profile: true
 
 <span style="font-size:1.25em; font-weight:bold;">Publications</span>
 
+WASH and Women’s Empowerment in Haiti. (with Alexandra Bernasek, Niroj Bhattarai, Wisnu Nugroho, and Arisa Thongngam). 2026 *Sustainable Development (Forthcoming)*
+
 Promoting Unorthodox Money Doctoring: Arthur Bloomfield and the West Indian Federation. (with Guy Numa). 2026. *History of Political Economy*, 58 (1), 35–58.[Link](https://doi.org/10.1215/00182702-12213449){: .btn--research}
 
 Abolishing the colour line: W.E.B. Du Bois’s theory of dynamic social equilibrium. (with Guy Numa). 2025 *Economy and Society*, 54(3), 549-572. [Link](https://doi.org/10.1080/03085147.2025.2564577){: .btn--research}
@@ -28,9 +30,9 @@ A Decline in International Income Inequality? Cross-National Income Convergence 
 
 Theoretical Approaches in Stratification Economics. (with Dan McGee and Daniele Tavani). 2026. *NBER Working Paper series* [Link](https://www.nber.org/papers/w34619){: .btn--research}
 
-The Persistent Effects of Compensation for Abolition. Job Market Paper. [PDF](/files/BrundageJMP.pdf){: .btn--research}
+Optimism and Pitfalls of a Development Doctor: W. Arthur Lewis in Ghana (with Oyindoubra Gbeworo and Guy Numa)
 
-WASH and Women’s Empowerment in Haiti. *Revisions Requested*. (with Alexandra Bernasek, Niroj Bhattarai, Wisnu Nugroho, and Arisa Thongngam)
+The Persistent Effects of Compensation for Abolition. Job Market Paper. [PDF](/files/BrundageJMP.pdf){: .btn--research}
 
 Uneven Development with an Unlimited Supply of Labor. *Revisions Requested*. 
 
@@ -40,9 +42,7 @@ Natural Disasters and Economic Recovery: 2010 Haiti Earthquake
 
 Stuck in the Swamp: Automation and the Everglades Agricultural Area
 
-"Optimism and Pitfalls of a Development Doctor: W. Arthur Lewis in Ghana" with Oyindoubra Gbeworo and Guy Numa
-
-"Arthur Lewis across contexts: West Indies vs. West Africa" with Oyindoubra Gbeworo and Guy Numa
+Arthur Lewis across contexts: West Indies vs. West Africa (with Oyindoubra Gbeworo and Guy Numa)
 
 
 
