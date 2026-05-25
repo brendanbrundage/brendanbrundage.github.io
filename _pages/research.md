@@ -16,7 +16,7 @@ author_profile: true
 
 <span style="font-size:1.25em; font-weight:bold;">Publications</span>
 
-WASH and Women’s Empowerment in Haiti. (with Alexandra Bernasek, Niroj Bhattarai, Wisnu Nugroho, and Arisa Thongngam). 2026 *Sustainable Development (Forthcoming)*
+WASH and Women’s Empowerment in Haiti. (with Alexandra Bernasek, Niroj Bhattarai, Wisnu Nugroho, and Arisa Thongngam). 2026 *Sustainable Development* (Online First). [Link](https://doi.org/10.1002/sd.70838){: .btn--research}
 
 Promoting Unorthodox Money Doctoring: Arthur Bloomfield and the West Indian Federation. (with Guy Numa). 2026. *History of Political Economy*, 58 (1), 35–58.[Link](https://doi.org/10.1215/00182702-12213449){: .btn--research}
 
