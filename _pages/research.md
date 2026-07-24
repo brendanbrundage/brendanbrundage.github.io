@@ -28,6 +28,8 @@ A Decline in International Income Inequality? Cross-National Income Convergence 
 
 <span style="font-size:1.25em; font-weight:bold;">Working Papers</span>
 
+Global Stratification Economics and International Extraction. (with William A. Darity and Daniele Tavani)
+
 Theoretical Approaches in Stratification Economics. (with Dan McGee and Daniele Tavani). 2026. *NBER Working Paper series* [Link](https://www.nber.org/papers/w34619){: .btn--research}
 
 Optimism and Pitfalls of a Development Doctor: W. Arthur Lewis in Ghana (with Oyindoubra Gbeworo and Guy Numa)
@@ -37,6 +39,8 @@ The Persistent Effects of Compensation for Abolition. Job Market Paper. [PDF](/f
 Uneven Development with an Unlimited Supply of Labor. *Revisions Requested*. 
 
 <span style="font-size:1.25em; font-weight:bold;"> Works in Progress</span>
+
+WWI and Economic Divergence in the British West Indies
 
 Natural Disasters and Economic Recovery: 2010 Haiti Earthquake
 
